@@ -9,3 +9,8 @@ In no particular order, here is our list for top proofreading software of 2022.
 ### [Typely - free online proofreading and essay editor](https://typely.com)
 
 Typely is a free online proofreader that will check your test for multiple edge cases that are quite unique to the software. Typely claims to be precise and its results are free of false-positives, a thing that we find to be quite annoying on other software. Typely does also provide analysis of written material such as sentiment, required grade, vocabulary or ease of reading. All of this in a visually impressive design that is abolutely free of clutter and ads, just the good stuff. We can't recommend Typely enough so go ahead and have a look.
+
+
+### [Hemingway editor](https://hemingwayapp.com/)
+
+Hemingway editor is a nifty little package that will check your text and make sure it is concise and free of clutter, in a true Hemingway style. It doesn't do much in other areas but it's a good tool to use in a complementary manner.
